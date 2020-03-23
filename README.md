@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning Algorithms
 
-A series of notebooks implementing a suite of Deep RL Algorithms.
+A series of notebooks containing theory and implementions for a suite of Deep RL Algorithms.
 
 These are meant to serve as:
 * A refresher exercise for myself on Deep RL and Tensorflow (especially TF2)
